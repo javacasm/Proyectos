@@ -9,3 +9,14 @@
 [Ascensor](https://github.com/javacasm/AscensorBot)
 
 [Limpiapiscinas robotico](https://github.com/javacasm/LimpiapiscinasBot)
+
+[Comparación entre tipos de tracción]
+
+Diferencia de comportamiento entre distintos tipos de tracción/dirección
+* Curiosity
+* Tipico robot
+* Coche con dirección
+
+[Control de riego]
+
+[Estación meteorológica]
